@@ -7,7 +7,7 @@
 - OneManager 程序已内置本主题，后台启用 onemoe 主题即可，或者可以通过设置 customTheme 链接来使用最新版本。
 
 ```html
-https://cdn.jsdelivr.net/gh/kizx/onemoe-theme/onemoe.html
+https://cdn.jsdelivr.net/gh/comdotwww/onemoe-theme/onemoe.html
 ```
 
 - 主题可以显示图片背景或者渐变色背景，要显示渐变色背景需要在后台清除背景图片设置，否则优先显示图片背景。
